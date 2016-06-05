@@ -84,7 +84,7 @@ You can also skip the whole thing by git cloning this repository, running npm in
     ```
     git init
     git add .
-    git commit --message 'hello world'
+    git commit --message "hello world"
     heroku create
     git push heroku master
     ```
@@ -159,7 +159,7 @@ Now that Facebook and Heroku can talk to each other we can code out the bot.
 
     ```
     git add .
-    git commit -m 'updated the bot to speak'
+    git commit -m "updated the bot to speak"
     git push heroku master
     ```
 
